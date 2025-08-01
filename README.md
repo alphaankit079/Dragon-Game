@@ -7,7 +7,8 @@ Created using **HTML, CSS, and JavaScript**, with background music, sound effect
 
 ## 🎮 Game Preview
 
-![Game Screenshot](./preview.png) <!-- Replace with actual screenshot -->
+<img width="1919" height="968" alt="Screenshot 2025-08-02 021129" src="https://github.com/user-attachments/assets/4c45c55a-5274-4c4b-926f-e05af4e34b63" />
+<img width="1915" height="969" alt="Screenshot 2025-08-02 020714" src="https://github.com/user-attachments/assets/62985e7a-dbfa-47da-95c2-9a2211a9c1ef" />
 
 ---
 
