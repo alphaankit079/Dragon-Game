@@ -42,7 +42,23 @@ body{
 }
 
 .gameOver{
-    visibility: hidden;
+    position: relative;
+    top: 63px;
+    font-size: 53px;
+    text-align: center;
+    font-family: sans-serif;
+    /* visibility: hidden; */
+}
+
+.scoreCount{
+    position: relative;
+    left: 23px;
+    top: 23px;
+    border: 2px solid black;
+    padding: 10px;
+    font-family: sans-serif;
+    width: fit-content;
+    font-weight: bolder;
 }
 
 .animateDino{
